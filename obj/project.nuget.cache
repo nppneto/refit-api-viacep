@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "kdff17g0uQLFAqaysxxWsm3Xfdw79Vg2WbwYhYQ+NuPf3v6mQZO7QiGGdh+D2M0MTLDf+XjppAyBWSCO+mjnNg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nelson Neto\\source\\repos\\ConsoleApiComRefit\\ConsoleApiComRefit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nelson Neto\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Nelson Neto\\.nuget\\packages\\refit\\6.3.2\\refit.6.3.2.nupkg.sha512",
+    "C:\\Users\\Nelson Neto\\.nuget\\packages\\system.net.http.json\\6.0.0\\system.net.http.json.6.0.0.nupkg.sha512",
+    "C:\\Users\\Nelson Neto\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Nelson Neto\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\Nelson Neto\\.nuget\\packages\\system.text.json\\6.0.1\\system.text.json.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
